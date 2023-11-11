@@ -1,4 +1,6 @@
-mport requests
+#!/usr/bin/python3
+""" 2-recurse.py """
+import requests
 
 
 def recurse(subreddit, hot_list=[], after=None):
